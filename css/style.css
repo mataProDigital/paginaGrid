@@ -4,3 +4,8 @@
   body {
 font-family: 'Inter', sans-serif;
   }
+
+  .card__img{
+    width: 100px;
+    background: rgb(0, 0, 0);
+  }
