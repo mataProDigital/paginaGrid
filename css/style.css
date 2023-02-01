@@ -365,7 +365,7 @@ body {
 }
 
 .footer__copyright::after {
-	content: ' hola@ortizinbox1@gmail.com';
+	content: 'ortizinbox1@gmail.com';
 }
 
 @media screen and (max-width: 768px) {
